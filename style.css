@@ -1,0 +1,35 @@
+html {
+  background-image: url(images/background.jpg);
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid purple;
+  border-radius: 15px;
+}
+.images {
+  width: 50px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+div {
+  background-color: purple;
+  padding: 34px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  border: 2px solid white;
+}
